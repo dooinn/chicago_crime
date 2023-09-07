@@ -1,6 +1,6 @@
 
 
-# Project Summary: Chicago Crime Analysis (2008-2022) with SQL and Tableau
+# Chicago Crime Analysis (2008-2022) with SQL and Tableau
 
 ![Alt text](https://cst.brightspotcdn.com/dims4/default/59e43ab/2147483647/strip/false/crop/6000x3375+0+313/resize/1200x675!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2Faq0IW60Scj2LVMT70VkZ-I-uTSo%3D%2F0x0%3A6000x4000%2F6000x4000%2Ffilters%3Afocal%283000x2000%3A3001x2001%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F19918744%2FChicago_Police_SUV.jpg)
 
